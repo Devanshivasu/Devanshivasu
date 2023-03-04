@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **html , CSS**
+- 💬 **html , CSS**
 
-- 📫 How to reach me **devanshimishra0808@gmail.com**
+- 📫 **devanshimishra0808@gmail.com**
 
-- ⚡ Fun fact **being funny is my part tym hobby**
+- ⚡ **being funny is my part tym hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
