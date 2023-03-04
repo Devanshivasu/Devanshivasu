@@ -1,13 +1,5 @@
-### Hi there 👋
-
-<!--
-**Devanshivasu/Devanshivasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 <h1 align="center">Hi 👋, I'm Devanshi Mishra</h1>
-<h3 align="center">I'm a BCA (Bachelor of Computer Applications) student currently pursuing my degree from PSIT, Kanpur. I have a passion for programming and love exploring new technologies</h3>
+<h3 align="center">I'm a BCA (Bachelor of Computer Applications) student currently pursuing my degree from PSIT,Kanpur. I have a passion for programming and love exploring new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshivasu&label=Profile%20views&color=0e75b6&style=flat" alt="devanshivasu" /> </p>
 
@@ -17,9 +9,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **web development**
 
-- 📫  **devanshimishra0808@gmail.com**
+- 💬 Ask me about **html , CSS**
 
-- ⚡  **being funny is my part tym hobby**
+- 📫 How to reach me **devanshimishra0808@gmail.com**
+
+- ⚡ Fun fact **being funny is my part tym hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
